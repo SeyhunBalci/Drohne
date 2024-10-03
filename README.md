@@ -1,2 +1,2 @@
 # Drohne
-Diese Drohne wurde in rahmen eines Teamprojekt entwickelt mit vier Studenten! 
+Das Projekt bestand aus dem Bau eines Quadrocopters auf Basis eines Arduino Mega Mikrocontrollers. Für den Antrieb wurden vier Brushless-Motoren verwendet, die entsprechend konfiguriert und angesteuert wurden. Um die Fluglage des Quadrocopters zu stabilisieren und eine präzise Steuerung zu gewährleisten, wurde ein MPU-6050 Sensor verwendet. Für die Regelung der Drohne wurde ein PID-Regler implementiert. Zur Optimierung der PID-Parameter wurde zusätzlich ein Teststand aufgebaut, der es ermöglicht, die Steuerung der Drohne während der Anpassung der Regelwerte zu überwachen und zu verfeinern.
